@@ -1,10 +1,6 @@
 # Diabetes Prediction from Medical Data
 
 <p align="center">
-  <img src="images/diabetes-banner.png" alt="Diabetes Prediction" width="850">
-</p>
-
-<p align="center">
   <b>A Machine Learning classification project for predicting the possibility of diabetes from patient demographic data and medical symptoms.</b>
 </p>
 
